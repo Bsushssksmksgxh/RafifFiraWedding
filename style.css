@@ -471,7 +471,7 @@ footer li {
     font-size: 60%;
   }
   .simply-countdown > .simply-section {
-    padding: 45px;
+    padding: 40px;
     margin: 1.5px;
   }
 
@@ -481,7 +481,7 @@ footer li {
   }
 
   .timeline li .timeline-panel {
-    width: 70%;
+    width: 50%;
     transform: translateX(-20px);
   }
 
