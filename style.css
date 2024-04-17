@@ -34,7 +34,7 @@ body {
 
 .hero h1 {
   font-family: "sacramento", cursive;
-  font-size: 6rem;
+  font-size: 6.5rem;
   color: #ffff;
 }
 
@@ -45,11 +45,11 @@ hero p {
 }
 
 .hero h4 {
-  font-size: 1.6rem;
+  font-size: 2rem;
 }
 
 .hero p {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 
 .hero a {
